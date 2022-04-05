@@ -1,3 +1,6 @@
+# Tags: a4c340e194804b9531558de9263aeb67351b16f2
+FROM mozilla/syncstorage-rs:a4c340e194804b9531558de9263aeb67351b16f2
+
 # Tags: 38d6a27b02e9ded7ef279a33f3a562e08e72f6a8
 FROM mozilla/syncstorage-rs:38d6a27b02e9ded7ef279a33f3a562e08e72f6a8
 
@@ -12,6 +15,3 @@ FROM mozilla/syncstorage-rs:fc34353a0aba96c4e1bb2d8fe9b6d8d8335058b9
 
 # Tags: d2dc0063ed336c339f5668a2154def1ada96af75
 FROM mozilla/syncstorage-rs:d2dc0063ed336c339f5668a2154def1ada96af75
-
-# Tags: 0e9b0f6e6c61b78a2ef2b1c3a32b9a73850b391b
-FROM mozilla/syncstorage-rs:0e9b0f6e6c61b78a2ef2b1c3a32b9a73850b391b
